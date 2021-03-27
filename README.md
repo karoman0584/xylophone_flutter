@@ -1,2 +1,2 @@
-# xylophone_flutter
+# Xylophone
 Xylophone flutter project
