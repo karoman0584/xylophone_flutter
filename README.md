@@ -1,5 +1,5 @@
 # Xylophone
-Xylophone flutter project
+Xylophone flutter project using Android Studio
 
 ## What you will learn
 
